@@ -19,7 +19,6 @@ The objective of this project was to configure custom firewall rules using pfSen
 - OpenVPN
 - WinSCP
 - FileZilla
-- Nmap
 
 ## Steps
 1. Download and Install pfSense:
